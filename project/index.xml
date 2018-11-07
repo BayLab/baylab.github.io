@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bay Lab</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Bay Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 26 Jun 2018 15:55:12 -0700</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introgression as a source of adaptive variation</title>
+      <link>/project/introgression/</link>
+      <pubDate>Tue, 26 Jun 2018 15:55:12 -0700</pubDate>
+      
+      <guid>/project/introgression/</guid>
+      <description>The capacity for natural populations to adapt to rapid environmental change will depend on standing variation. One often-overlooked process that contributes to standing variation is introgression from other populations or species. For this reason, we investigate the processes of introgression and speciation across diverse taxa. For Swainson’s Thrush (Catharus ustulatus), a migratory songbird, we used demographic analysis of genomic data to study a hybrid zone between two subspecies. We found unexpectedly high levels of unidirectional gene flow at divergent loci, suggesting adaptive alleles that arose during allopatry are leaking across species boundaries (Bay and Ruegg 2017 Proc B).</description>
+    </item>
+    
+    <item>
+      <title>Predicting evolutionary responses to climate change</title>
+      <link>/project/prediction/</link>
+      <pubDate>Tue, 26 Jun 2018 15:54:26 -0700</pubDate>
+      
+      <guid>/project/prediction/</guid>
+      <description>In addition to exploring past and current patterns of plasticity, adaptation, and introgression, We are interested in integrating data from genome scans into more future-oriented predictive frameworks (Figure below; Bay et al. 2017 Am Nat). For corals, we used the genetic basis of temperature adaptation that we previously estimated (Bay and Palumbi 2014 Curr Biol), along with projected sea surface temperatures, to simulate future persistence and extinction (Figure below: Bay et al.</description>
+    </item>
+    
+    <item>
+      <title>Adaptation to climate gradients</title>
+      <link>/project/adaptation/</link>
+      <pubDate>Tue, 26 Jun 2018 15:54:20 -0700</pubDate>
+      
+      <guid>/project/adaptation/</guid>
+      <description>A potential evolutionary response to rapid environmental change is adaptation of local populations. In high gene flow systems like marine environments, local adaptation was traditionally thought to be rare, but the recent rise of genomic data has led to the discovery of environmentally-associated genetic structuring in panmictic populations. We have examined adaptation across a small spatial scale in corals, finding 114 genetic variants within the Acropora hyacinthus transcriptome significantly associated with temperature at adjacent sites with different thermal regimes (Bay &amp;amp; Palumbi 2014 Curr Biol).</description>
+    </item>
+    
+    <item>
+      <title>The role of plasticity in environmental response</title>
+      <link>/project/plasticity/</link>
+      <pubDate>Fri, 22 Jun 2018 13:30:53 -0700</pubDate>
+      
+      <guid>/project/plasticity/</guid>
+      <description>Perhaps the most rapid response to environmental change is acclimation, when individual organisms adjust their physiology to cope with new environments. Although this process is widespread, we are just beginning to define the rates, limits, and underlying cellular mechanisms. Coral reefs are important systems for acclimation studies, as they provide roughly one billion people with food and income, yet are extremely vulnerable to temperature shifts. We measured the rate of acclimation to increased temperature in a reef-building coral, Acropora nana using a laboratory experiment (Figure below; Bay &amp;amp; Palumbi 2015 Genome Biol Evol).</description>
+    </item>
+    
+  </channel>
+</rss>
